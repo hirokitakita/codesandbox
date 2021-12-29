@@ -41,3 +41,14 @@
 
 // const sayHello = (name = "ゲスト") => console.log(`こんにちは！${name}さん！`);
 // sayHello("ジャケ");
+
+//分割代入
+
+// const myProfile = {
+//   name : "ジャケ",
+//   age : 28,
+//   addres : "広島"
+// }
+
+// const {name,age} = myProfile;
+// console.log(name,age);
